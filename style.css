@@ -59,3 +59,19 @@ h5,
 h6 {
 	overflow-wrap: break-word;
 }
+
+/* My CSS */
+
+:root {
+	--bg-color-sedans: hsl(31, 77%, 52%);
+	--bg-color-suvs: hsl(184, 100%, 22%);
+	--bg-color-luxury: hsl(179, 100%, 13%);
+	--color-main: hsl(0, 0%, 95%);
+	--color-secondary: hsla(0, 0%, 100%, 0.75);
+	--font-Lexend-Deca: 'Lexend Deca', sans-serif;
+	--font-Big-Shoulders-Display: 'Big Shoulders Display', cursive;
+}
+
+html {
+	font-size: 62.5%;
+}
